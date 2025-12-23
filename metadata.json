@@ -1,0 +1,8 @@
+{
+  "name": "Copy of IBRI Connect - Gestão Institucional",
+  "description": "Plataforma integrada para o Instituto de Relações com Investidores: CRM, Gestão de Cursos, Emissão de NF-e e Portal do Associado.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
